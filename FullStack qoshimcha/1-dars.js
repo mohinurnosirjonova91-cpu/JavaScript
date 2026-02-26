@@ -117,11 +117,11 @@ console.log(typeof mathGrade); // typeni bilish.
 
 //boohgj
 
-console.log(total);
-console.log(total);
-console.log(total);
-console.log(total);
-console.log(total);
+// console.log(total);
+// console.log(total);
+// console.log(total);
+// console.log(total);
+// console.log(total);
 
 
 
