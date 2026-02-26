@@ -115,7 +115,7 @@ console.log(typeof mathGrade); // typeni bilish.
 // type/// iui]
 
 
-//boo
+//boohgj
 
 
 
