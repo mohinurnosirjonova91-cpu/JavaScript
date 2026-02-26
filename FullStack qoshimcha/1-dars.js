@@ -111,7 +111,7 @@ console.log(total);
 
 console.log(typeof mathGrade); // typeni bilish.
 
-
+// jgjgjghfhhgjg
 
 
 
