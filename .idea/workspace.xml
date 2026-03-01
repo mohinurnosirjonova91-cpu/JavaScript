@@ -20,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mohinurnosirjonova91-cpu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mohinurnosirjonova91-cpu/JavaScript.git",
+    "accountId": "f0114505-b675-42f9-942a-598f1999da3b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -38,7 +50,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Surface/OneDrive/Desktop/FullStack qoshimcha",
@@ -87,7 +99,7 @@
       <workItem from="1772349276229" duration="561000" />
       <workItem from="1772349848966" duration="1668000" />
       <workItem from="1772352535260" duration="311000" />
-      <workItem from="1772352855970" duration="331000" />
+      <workItem from="1772352855970" duration="813000" />
     </task>
     <servers />
   </component>
