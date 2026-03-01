@@ -10,6 +10,10 @@
 // console.log(age)
 
 
+
+
+
+
 // name = "Oyzoda"
 // console.log(name)
 
