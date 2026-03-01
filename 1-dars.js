@@ -10,11 +10,6 @@
 // console.log(age)
 
 
-
-
-
-
-// lkmlkl
 // name = "Oyzoda"
 // console.log(name)
 
@@ -32,6 +27,21 @@
 
 // let id = Symbol('id');
 // console.log(id)
+
+// hello
+
+////
+
+
+
+
+
+
+
+
+
+
+
 
 
 // LESSON 3

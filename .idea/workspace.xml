@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce86e9ca-af7d-4a6b-a6e0-1f5c75aa9f55" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3AANV5MTBdzTFZvNvPv9AM1H14s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.1-dars.js.executor": "Run",
+    "Node.js.2-dars.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Surface/OneDrive/Desktop/FullStack qoshimcha",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.30387.83" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce86e9ca-af7d-4a6b-a6e0-1f5c75aa9f55" name="Changes" comment="" />
+      <created>1772031435468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772031435468</updated>
+      <workItem from="1772031436595" duration="36000" />
+      <workItem from="1772031900251" duration="76000" />
+      <workItem from="1772032236506" duration="919000" />
+      <workItem from="1772036440851" duration="381000" />
+      <workItem from="1772036841204" duration="6000" />
+      <workItem from="1772078507652" duration="5000" />
+      <workItem from="1772081868028" duration="141000" />
+      <workItem from="1772089492266" duration="4627000" />
+      <workItem from="1772095608528" duration="7000" />
+      <workItem from="1772095626514" duration="44000" />
+      <workItem from="1772095687784" duration="1211000" />
+      <workItem from="1772096915554" duration="13000" />
+      <workItem from="1772345944489" duration="415000" />
+      <workItem from="1772346861387" duration="248000" />
+      <workItem from="1772347184991" duration="824000" />
+      <workItem from="1772348127959" duration="536000" />
+      <workItem from="1772348692124" duration="329000" />
+      <workItem from="1772349042254" duration="224000" />
+      <workItem from="1772349276229" duration="561000" />
+      <workItem from="1772349848966" duration="1668000" />
+      <workItem from="1772352535260" duration="311000" />
+      <workItem from="1772352855970" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
