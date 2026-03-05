@@ -104,6 +104,70 @@
 
 
 
+// // Sinf ishi
+// 1-misol
+
+// const players = ['Messi', 'Ronaldo', 'Neymar', 'Mbappe'];
+// let deletedPlayers = players.shift()
+// players[1]= 'Vinicius'
+// players.push ('Haaland')
+// console.log(players.length);
+// console.log(players);
+
+
+// 2-misol
+
+// let navbat=  ["Muhammadali", "Mohinur", "Husan"];
+// navbat.unshift('Hokim aka');
+// const deletedNavbat = navbat.shift()
+// console.log(navbat)
+// console.log(deletedNavbat)
+// console.log(`Hozir xonaga ${deletedNavbat} kirdi. U passportini olib bo'ldi.`);
+// navbat.pop();
+// console.log(navbat);
+
+
+// // Homework task3
+// // 1-vazifa: Kinolar
+
+// let kinolarToplami=['Afsungar', 'Titanik','Qasoskorlar']
+// kinolarToplami.push('New life', 'Tiger')
+// console.log(kinolarToplami)
+// kinolarToplami.unshift('Qasos')
+// console.log(kinolarToplami)
+// console.log(`Menda jami ${kinolarToplami.length} ta kino bor`)
+// console.log(kinolarToplami)
+// console.log("Birinchi kino:", kinolarToplami[0]);
+// console.log(kinolarToplami)
+
+
+// // 2-vazifa:Oborxona
+
+// let omborxona=['komputer','monitor','notebook','klaviatura']
+// omborxona.push('sichqoncha')
+// const deletedOmborxona = omborxona.shift()
+// console.log(deletedOmborxona)
+// console.log(`Bugun dokonda ${deletedOmborxona} sotildi`)
+// omborxona[2] ='TV'
+// console.log(omborxona)
+
+
+// // 3-vazifa: Ranglarni tartiblash
+
+// ranglar = ["Qizil", "Yashil", "Ko'k"];
+// console.log(ranglar);
+// ranglar.push('sariq')
+// console.log(ranglar);
+// const deletedRanglar1 = ranglar.shift()
+// console.log(ranglar);
+// console.log(deletedRanglar1)
+// const deletedRanglar2 = ranglar.pop()
+// console.log(ranglar);
+// console.log(deletedRanglar2)
+// ranglar.unshift('sariq')
+// console.log(ranglar)
+// ranglar[1] ='oq'
+// console.log(ranglar)
 
 
 
