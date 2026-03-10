@@ -170,7 +170,59 @@
 // console.log(ranglar)
 
 
+// // Homework task4
+// // 1-vazifa: Kitoblar - (bu vazifada qavs[],dot(.),keys, values, metodlarini mustahkamlab olamiz.
+// const book = {
+//     title: 'Jimjitlik',
+//     author: 'Said Ahmad',
+//     year: 1989,
+//     address: {
+//         city:'Uzbekistan',
+//         libraryName: 'Turon Zamin '
+//     }
+// }
+// console.log(book.title)
+// console.log(book["author"])
+// console.log(book["year"])
+// console.log(Object.keys(book))
+// console.log(Object.values(book))
 
+
+// // 2-vazifa: Mini market -(bu vazifada concat, filter va sort  metodlarini mustahkamlab olamiz.)
+// fruits = ['olma', 'apelsin', 'mandarin', 'qulpnay'];
+// prices = [12000, 80000, 25000, 5000,]
+// const result = fruits.concat(prices)
+// const sortValues = (number1, number2) => number1 - number2;// osish tartibida tartiblash
+// console.log(result.sort(sortValues));
+// const filterValues = number => number > 10000;// filter qilinyapti
+// const filteredValues = result.filter(filterValues);
+// console.log(filteredValues);
+// const findValue = (number) => number == 25000;
+// const foundValue = result.find(findValue)
+// console.log(foundValue);
+
+
+// // 3-vazifa
+// const employee = {
+//     firstName: "Mohinur",
+//     lastName: "Nosirjonova",
+//     salary: 10000,
+//     sayHello: function (){
+//         console.log(" Assalomu alaykum, mening ismim " + this.firstName);
+//     }
+// }
+// employee.sayHello();
+// const oldSalaries = [600, 820, 1450];
+// console.log( "Eski oylik:", oldSalaries);
+// const newSalaries = [];
+// newSalaries.push(oldSalaries[0]*2);
+// newSalaries.push(oldSalaries[1]*2);
+// newSalaries.push(oldSalaries[2]*2);
+// console.log("Yangi oylik:", newSalaries);
+// console.log("Obyekt kalitlari:", Object.keys(employee))
+// console.log(employee.firstName);
+// console.log(employee.lastName);
+// console.log(employee.salary);
 
 
 
